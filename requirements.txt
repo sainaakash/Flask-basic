@@ -1,0 +1,7 @@
+"""
+in order to install what all is there in requirement.txt
+in terminal, 
+-> pip install -r ./requirements.tx
+"""
+
+flask
